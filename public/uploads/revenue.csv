@@ -1,0 +1,5 @@
+operator,service id,service name,revenue,date
+Robi,1,mfc,123,10-10-22
+blink,2,cfc,25,11-10-22
+gp,3,dfc,68,12-10-22
+ttalk,4,cl,45,13-10-22
